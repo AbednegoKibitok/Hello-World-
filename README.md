@@ -1,128 +1,175 @@
-📗 Table of Contents
-📖 About the Project
-🛠 Built With
-Tech Stack
-Key Features
-🚀 Live Demo
-💻 Getting Started
-Setup
-Prerequisites
-Install
-Usage
-Run tests
-Deployment
-👥 Authors
-🔭 Future Features
-🤝 Contributing
-⭐️ Show your support
-🙏 Acknowledgements
-❓ FAQ (OPTIONAL)
-📝 License
-📖 Hello Microverse Project
-This is my first project in Microvese Full-Stack spftware development course.
+<a name="readme-top"></a>
 
-Hello Microverse is a project that sets up all the requirements in Microverse software development course projects. 
+# 📗 Table of Contents
 
-🛠 Built With
-Tech Stack
-Describe the tech stack and include only the relevant sections that apply to your project.
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
-Client
-Server
-Database
-Key Features
-Describe between 1-3 key features of the application.
+# 📖 [Hello Microverse Project] <a name="about-project"></a>
 
-[key_feature_1]
-[key_feature_2]
-[key_feature_3]
-(back to top)
+> This is my first Microverse Project. It contains some things I am capable of doing as a software developer.
 
-🚀 Live Demo
-Add a link to your deployed project.
+**[HELLO MICROVERSE PROJECT]** is a website that tests my web development skills.
 
-Live Demo Link
-(back to top)
+## 🛠 Built With <a name="HTML and CSS"></a>
 
-💻 Getting Started
-Describe how a new developer could make use of your project.
+### Tech Stack <a name="Front end"></a>
+
+> This is a desk-top browser website.
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://html.org/">HTML</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://css.org/">CSS</a></li>
+  </ul>
+</details>
+
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+
+- **[Channge the content color]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://github.com/AbednegoKibitok/Hello-World-)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
-Prerequisites
+### Prerequisites
+
 In order to run this project you need:
 
-Setup
+- A browser that supports html5 and css3
+
+### Setup
+
 Clone this repository to your desired folder:
 
-Install
+```sh
+  cd my-folder
+  git clone https://github.com/AbednegoKibitok/Hello-World-.git
+```
+--->
+
+### Install
+
 Install this project with:
 
-Usage
+- Clone the code into your machine and run test in an editor of your choice.
+
+### Usage
+
 To run the project, execute the following command:
 
-Run tests
+- http://127.0.0.1:5500/index.html
+
+### Run tests
+
 To run tests, run the following command:
 
-Deployment
+- http://127.0.0.1:5500/index.html
+
+### Deployment
+
 You can deploy this project using:
 
-(back to top)
+- Deploy it on a browser of your choice.
 
-👥 Authors
-Mention all of the collaborators of this project.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-👤 Author1
+## 👥 Authors <a name="authors"></a>
 
-GitHub: @githubhandle
-Twitter: @twitterhandle
-LinkedIn: LinkedIn
-👤 Author2
+> Mention all of the collaborators of this project.
 
-GitHub: @githubhandle
-Twitter: @twitterhandle
-LinkedIn: LinkedIn
-(back to top)
+👤 **Author1**
 
-🔭 Future Features
-Describe 1 - 3 features you will add to the project.
+- GitHub: [@githubhandle](https://github.com/AbednegoKibitok)
+- Twitter: [@twitterhandle](https://twitter.com/abedysongol)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abednego-kibitok-58717517a/)
 
- [new_feature_1]
- [new_feature_2]
- [new_feature_3]
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-🤝 Contributing
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[Contact form]**
+- [ ] **[Desktop version of the website]**
+- [ ] **[new_feature_3]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](https://github.com/AbednegoKibitok/My-Portfolio-Project/issues).
 
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-⭐️ Show your support
-Write a message to encourage readers to support your project
+## ⭐️ Show your support <a name="support"></a>
 
-If you like this project...
+> Write a message to encourage readers to support your project
 
-(back to top)
+If you like this project, get back to me, we can add some more features to it.
 
-🙏 Acknowledgments
-Give credit to everyone who inspired your codebase.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-I would like to thank...
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-(back to top)
+> Give credit to everyone who inspired your codebase.
 
-❓ FAQ (OPTIONAL)
-Add at least 2 questions new developers would ask when they decide to use your project.
+I would like to thank Microverse community for their support especially in their code review process.
 
-[Question_1]
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[Answer_1]
-[Question_2]
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-[Answer_2]
-(back to top)
+> Add at least 2 questions new developers would ask when they decide to use your project.
 
-📝 License
-This project is MIT licensed.
+- **[Question_1]**
+
+  - [Answer_1]
+
+- **[Question_2]**
+
+  - [Answer_2]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](https://github.com/AbednegoKibitok/My-Portfolio-Project/blob/main/LICENSE.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
